@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  debian-jenkins-node-base:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: rdissertori/alpine-debian-node-base:1.0

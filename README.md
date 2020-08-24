@@ -1,2 +1,2 @@
-# docker-alpine-jenkins-node-base
-Basic Template for Jenkins nodes
+# docker-debian-jenkins-node-cypress
+ jenkins agent for cypress
